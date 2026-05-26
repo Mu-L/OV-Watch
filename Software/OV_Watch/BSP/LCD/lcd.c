@@ -7,7 +7,6 @@
 
 #define OFFSET_Y 20
 
-extern osSemaphoreId_t DMA_SemaphoreHandle;
 static LCD_CallbackFunc_t lcd_ready_cb = NULL;
 
 /******************************************************************************
